@@ -4,4 +4,4 @@ Computer Science student at Tbilisi State University.
 
 ## LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/zurabzhvania)](https://leetcode.com/u/zurabzhvania/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/zurabzhvania?theme=dark)](https://leetcode.com/u/zurabzhvania/)
